@@ -14,7 +14,7 @@ With a successful reponse, navigate to a home screen.
 
 The visuals don't matter here, focus more on the project dependencies and structure. 
 
-In order of precendence we will look at:
+In order of precedence we will look at:
 - Package structure and architecture
 - Dependencies
 - Exception handling
